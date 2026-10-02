@@ -2,7 +2,7 @@
 React + Vite + PokeAPI. Skin "pokeball" (variabili CSS in console.css).
 
     npm install
-    npm run dev
+    npm run dev.
 
 ## Tastiera
 La legenda è a sinistra della console (visibile oltre i 1000 px di larghezza).
